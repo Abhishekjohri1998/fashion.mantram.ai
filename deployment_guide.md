@@ -46,7 +46,7 @@ sudo npm install -g pm2
 ## Step 4: Application Deployment
 Clone your code (we assume you've pushed it to a GitHub repository):
 ```bash
-git clone https://github.com/your-username/your-repo.git app
+git clone https://github.com/Abhishekjohri1998/fashion.mantram.ai.git app
 cd app
 ```
 
